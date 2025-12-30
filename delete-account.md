@@ -53,7 +53,7 @@ Your account and data will be deleted within **7–30 business days** after rece
 
 If you have any questions regarding account deletion or data privacy, contact us at:
 
-📩 **[cngapp.support@gmail.com](akshaygkadam143@gmail.com)**
+📩 **[akshaygkadam143@gmail.com](akshaygkadam143@gmail.com)**
 
 ---
 
