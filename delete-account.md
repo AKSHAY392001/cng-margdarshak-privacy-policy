@@ -8,8 +8,7 @@ If you would like to delete your account and associated data from the **CNG म�
 
 Send an email to:
 
-📩 **Email:** [akshaygkadam143@gmail.com](akshaygkadam143@gmail.com)
-(Replace this email with your real support email if different)
+📩 **Email:** [cng.margdarshak2k26@gmail.com](cng.margdarshak2k26@gmail.com)
 
 Please include the following details in your email request:
 
@@ -53,8 +52,8 @@ Your account and data will be deleted within **7–30 business days** after rece
 
 If you have any questions regarding account deletion or data privacy, contact us at:
 
-📩 **[akshaygkadam143@gmail.com](akshaygkadam143@gmail.com)**
+📩 **[cng.margdarshak2k26@gmail.com](cng.margdarshak2k26@gmail.com)**
 
 ---
 
-*Last Updated: 30 December 2025*
+*Last Updated: 31 December 2025*
