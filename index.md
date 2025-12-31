@@ -1,6 +1,6 @@
 # Privacy Policy – CNG मार्गदर्शक (CNG Margdarshak)
 
-**Last Updated:** 28/12/2025  
+**Last Updated:** 31/12/2025  
 
 ---
 
@@ -57,7 +57,7 @@ CNG मार्गदर्शक अ‍ॅप तुमच्या गोप�
 
 ## 9. संपर्क
 कुठलीही माहिती हवी असल्यास आम्हाला संपर्क करा:  
-**Email:** akshaygkadam143@gmail.com
+**Email:** cng.margdarshak2k26@gmail.com
 
 ---
 
@@ -114,4 +114,4 @@ We may update this Privacy Policy in the future, and changes will be posted here
 
 ## 9. Contact Us
 If you have any questions, contact us at:  
-**Email:** akshaygkadam143@gmail.com
+**Email:** cng.margdarshak2k26@gmail.com
