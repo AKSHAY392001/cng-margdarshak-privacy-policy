@@ -1,6 +1,6 @@
 # Privacy Policy – CNG मार्गदर्शक (CNG Margdarshak)
 
-**Last Updated:** 15/01/2026  
+**Last Updated:** 11/06/2026  
 
 ---
 
@@ -32,30 +32,40 @@ CNG मार्गदर्शक अ‍ॅप तुमच्या गोप�
 वापरकर्त्याचे वर्तमान लोकेशन फक्त अ‍ॅप चालू असताना वापरले जाते.  
 **लोकेशन डेटा आम्ही कुठेही सेव्ह/स्टोअर करत नाही आणि कोणासोबतही शेअर करत नाही.**
 
-## 4. डेटा सुरक्षा
+## 4. कॅमेरा परवानगी (Camera Permission)
+
+CNG पंप जोडताना WhatsApp ग्रुप स्कॅनर/QR कोड स्कॅन करण्यासाठी अ‍ॅप कॅमेरा परवानगी मागू शकते.
+
+* कॅमेरा फक्त QR कोड किंवा WhatsApp ग्रुप स्कॅन करण्यासाठी वापरला जातो.
+* आम्ही कोणतेही फोटो, व्हिडिओ किंवा कॅमेराद्वारे कॅप्चर केलेली माहिती जतन करत नाही.
+* कॅमेराद्वारे मिळालेली माहिती कोणत्याही तृतीय पक्षासोबत शेअर केली जात नाही.
+* कॅमेरा वापर फक्त वापरकर्त्याने संबंधित फीचर वापरल्यासच केला जातो.
+
+
+## 5. डेटा सुरक्षा
 तुमचा डेटा सुरक्षित ठेवण्यासाठी आम्ही योग्य सुरक्षा उपाय वापरतो.  
 **Device ID केवळ Hash स्वरूपात जतन केला जातो**, त्यामुळे थेट ओळख पटत नाही.
 
-## 5. डेटा शेअरिंग
+## 6. डेटा शेअरिंग
 तुमची माहिती खालील ठिकाणी शेअर केली जात नाही:
 - जाहिरात कंपन्या  
 - तृतीय पक्ष कंपन्या  
 - कोणत्याही बाहेरील संस्थेकडे (कायदेशीर गरज असल्याशिवाय)
 
-## 6. वापरकर्त्याचे हक्क
+## 7. वापरकर्त्याचे हक्क
 वापरकर्ता खालील गोष्टी मागू शकतो:
 - खाते डिलीट करणे  
 - डेटा डिलीट करणे  
 
 खालील ईमेलवर संपर्क करा.
 
-## 7. मुलांसाठी धोरण
+## 8. मुलांसाठी धोरण
 हे अ‍ॅप 13 वर्षांखालील मुलांसाठी नाही.
 
-## 8. पॉलिसी अपडेट
+## 9. पॉलिसी अपडेट
 भविष्यात आम्ही Privacy Policy अपडेट करू शकतो आणि ते येथे अपडेट केले जाईल.
 
-## 9. संपर्क
+## 10. संपर्क
 कुठलीही माहिती हवी असल्यास आम्हाला संपर्क करा:  
 **Email:** cng.margdarshak2k26@gmail.com
 
@@ -89,29 +99,38 @@ We do NOT sell or share your personal data with any third parties.
 Your current location is used temporarily only during app usage.  
 **We do not store or retain your location and we do not share it with anyone.**
 
-## 4. Data Security
+4. Camera Permission
+
+The app may request camera access when a user adds a CNG pump and needs to scan a WhatsApp group QR code or scanner.
+
+The camera is used only for scanning QR codes or WhatsApp group information.
+We do not store, save, or retain any photos, videos, or camera-captured content.
+Information obtained through camera scanning is not shared with any third party.
+Camera access is used only when the user actively uses the relevant feature.
+
+## 5. Data Security
 We take reasonable measures to protect your data.  
 **Device ID is stored only in hashed form**, so the actual device identity cannot be directly identified.
 
-## 5. Data Sharing
+## 6. Data Sharing
 Your personal data is not shared with:
 - Advertisers  
 - Third-party companies  
 - Any external organization (unless legally required)
 
-## 6. User Rights
+## 7. User Rights
 Users can request:
 - Account deletion  
 - Data deletion  
 
 Contact us using the email below.
 
-## 7. Children Policy
+## 8. Children Policy
 This app is not intended for children under 13.
 
-## 8. Policy Updates
+## 9. Policy Updates
 We may update this Privacy Policy in the future, and changes will be posted here.
 
-## 9. Contact Us
+## 10. Contact Us
 If you have any questions, contact us at:  
 **Email:** cng.margdarshak2k26@gmail.com
