@@ -1,6 +1,6 @@
 # Privacy Policy – CNG मार्गदर्शक (CNG Margdarshak)
 
-**Last Updated:** 11/06/2026  
+**Last Updated:** 26/07/2026  
 
 ---
 
@@ -41,31 +41,39 @@ CNG पंप जोडताना WhatsApp ग्रुप स्कॅनर/
 * कॅमेराद्वारे मिळालेली माहिती कोणत्याही तृतीय पक्षासोबत शेअर केली जात नाही.
 * कॅमेरा वापर फक्त वापरकर्त्याने संबंधित फीचर वापरल्यासच केला जातो.
 
+## 5. सूचना (Notifications)
 
-## 5. डेटा सुरक्षा
+CNG मार्गदर्शक अ‍ॅप तुमच्या **Favorite CNG पंपांबाबत** महत्त्वाच्या अपडेट्स देण्यासाठी Notification परवानगी मागू शकते.
+
+- Notification चा वापर फक्त तुम्ही Favorite म्हणून सेव्ह केलेल्या CNG पंपांच्या अपडेट्स पाठवण्यासाठी केला जातो.
+- यामध्ये CNG उपलब्धता, Power Cut किंवा इतर संबंधित पंप अपडेट्स असू शकतात.
+- Notification पाठवण्यासाठी आम्ही तुमचे वर्तमान लोकेशन वापरत नाही.
+- तुम्ही कधीही तुमच्या मोबाईलच्या Settings मधून Notifications बंद करू शकता.
+
+## 6. डेटा सुरक्षा
 तुमचा डेटा सुरक्षित ठेवण्यासाठी आम्ही योग्य सुरक्षा उपाय वापरतो.  
 **Device ID केवळ Hash स्वरूपात जतन केला जातो**, त्यामुळे थेट ओळख पटत नाही.
 
-## 6. डेटा शेअरिंग
+## 7. डेटा शेअरिंग
 तुमची माहिती खालील ठिकाणी शेअर केली जात नाही:
 - जाहिरात कंपन्या  
 - तृतीय पक्ष कंपन्या  
 - कोणत्याही बाहेरील संस्थेकडे (कायदेशीर गरज असल्याशिवाय)
 
-## 7. वापरकर्त्याचे हक्क
+## 8. वापरकर्त्याचे हक्क
 वापरकर्ता खालील गोष्टी मागू शकतो:
 - खाते डिलीट करणे  
 - डेटा डिलीट करणे  
 
 खालील ईमेलवर संपर्क करा.
 
-## 8. मुलांसाठी धोरण
+## 9. मुलांसाठी धोरण
 हे अ‍ॅप 13 वर्षांखालील मुलांसाठी नाही.
 
-## 9. पॉलिसी अपडेट
+## 10. पॉलिसी अपडेट
 भविष्यात आम्ही Privacy Policy अपडेट करू शकतो आणि ते येथे अपडेट केले जाईल.
 
-## 10. संपर्क
+## 11. संपर्क
 कुठलीही माहिती हवी असल्यास आम्हाला संपर्क करा:  
 **Email:** cng.margdarshak2k26@gmail.com
 
@@ -108,29 +116,38 @@ We do not store, save, or retain any photos, videos, or camera-captured content.
 Information obtained through camera scanning is not shared with any third party.
 Camera access is used only when the user actively uses the relevant feature.
 
-## 5. Data Security
+## 5. Notifications
+
+CNG Margdarshak may request permission to send notifications to keep you informed about updates related to your **favourite CNG pumps**.
+
+- Notifications are used only to provide updates for CNG pumps that you have marked as favourites.
+- These notifications may include CNG availability, power cuts, maintenance updates, or other relevant pump status updates.
+- We do not use your current location to send notifications.
+- You can disable notifications at any time through your device settings.
+
+## 6. Data Security
 We take reasonable measures to protect your data.  
 **Device ID is stored only in hashed form**, so the actual device identity cannot be directly identified.
 
-## 6. Data Sharing
+## 7. Data Sharing
 Your personal data is not shared with:
 - Advertisers  
 - Third-party companies  
 - Any external organization (unless legally required)
 
-## 7. User Rights
+## 8. User Rights
 Users can request:
 - Account deletion  
 - Data deletion  
 
 Contact us using the email below.
 
-## 8. Children Policy
+## 9. Children Policy
 This app is not intended for children under 13.
 
-## 9. Policy Updates
+## 10. Policy Updates
 We may update this Privacy Policy in the future, and changes will be posted here.
 
-## 10. Contact Us
+## 11. Contact Us
 If you have any questions, contact us at:  
 **Email:** cng.margdarshak2k26@gmail.com
